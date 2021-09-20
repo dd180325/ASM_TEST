@@ -4,7 +4,7 @@ codesg  segment
 start:
     mov ax , 2000h
     mov ds , ax
-    ;
+    
     ;mov bx , 1000h
     ; mov ax , [bx]
     ; inc bx
